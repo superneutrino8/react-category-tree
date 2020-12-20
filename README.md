@@ -1,2 +1,1 @@
-# react-category-tree
-Category Tree using React - Redux
+# Category Tree using React - Redux
