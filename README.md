@@ -3,7 +3,7 @@
 This project is a for showcasing Category Tree using React. 
 Frontend is built using React, Hooks and Redux.
 
-![example-site](https://raw.githubusercontent.com/superneutrino8/furrow-rebuilt/master/src/assets/Furrow.jpg)
+![example-site](https://raw.githubusercontent.com/superneutrino8/react-category-tree/main/home-page.jpg)
 
 [Click Here For Preview](https://furrow-rebuilt.netlify.app/)
 
