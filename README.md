@@ -1,6 +1,6 @@
 # Category Tree using React & Redux
 ---
-####  Project Desctiption
+##  Project Description
 This project is for showcasing Category Tree using React. 
 Frontend is built using React, Hooks and Redux.
 
@@ -8,13 +8,13 @@ Frontend is built using React, Hooks and Redux.
 
 [Click Here For Preview](https://react-category-tree.netlify.app/)
 
-#### Tech Stack
+## Tech Stack
 - React
 - Redux
 - Hooks
 - React Contexify
 
-#### How to Setup and Start Project
+## How to Setup and Start Project
 
 _Steps to setup the project_
 **Step 1:** Clone this repository.
@@ -23,7 +23,7 @@ _Steps to setup the project_
 **Step 4:** cd to react-category-tree directory. Install the Application with `npm i` or `yarn`
 **Step 5:** Run the project with `npm start`
 
-#### How to Test Cases
+## How to Test Cases
 _Steps to Run Test Cases_
 **Step 1:** cd to react-category-tree directory.
 **Step 2:** Run the Tests with `npm test`
