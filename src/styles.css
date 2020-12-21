@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Catergory {
+  width: auto;
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+.Category__Node {
+  border-bottom: 1px solid grey;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 0 5px;
+  margin: 2px;
+  width: 20px;
+  height: 20px;
+}
+
+.Buttons--large {
+  padding: 10px 15px;
+  width: auto;
+  height: auto;
+  margin-bottom: 10px;
+}
