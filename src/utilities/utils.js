@@ -1,3 +1,5 @@
+export const MENU_ID = "menu-id";
+
 export const initalData = [
   {
     id: 1,
@@ -67,5 +69,3 @@ export function nest(data, parentId = null) {
     return r;
   }, []);
 }
-
-export const MENU_ID = "menu-id";

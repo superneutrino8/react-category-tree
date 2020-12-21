@@ -2,7 +2,6 @@ import { initalData } from "../utilities/utils";
 import { ACTIONS } from "../actions/actions";
 
 const localStateStatus = localStorage.getItem("state") ? true : false;
-console.log({ localStateStatus });
 
 const initialState = localStateStatus
   ? JSON.parse(localStorage.getItem("state"))
@@ -28,7 +27,7 @@ function rootReducer(state = initialState, { type, payload }) {
       tempArray = [
         ...tempArray,
         {
-          id: Date.now(),
+          id: payload.id ? payload.id : Date.now(),
           name: payload.description,
           parent_id: payload.index
         }
